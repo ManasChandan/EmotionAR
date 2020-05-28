@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005026354928",
+    "firebase_url": "https://moodapplication-be743.firebaseio.com",
+    "project_id": "moodapplication-be743",
+    "storage_bucket": "moodapplication-be743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005026354928:android:d1ea0f2e68dfde87bd0435",
+        "android_client_info": {
+          "package_name": "com.ARHuB.MoodApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005026354928-ql9ln9kmsl8ln5m8beleiqj1gbilldcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnX4rWcBRMuT-rAOwLLbd0TWDr-HlHR8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005026354928-ql9ln9kmsl8ln5m8beleiqj1gbilldcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
